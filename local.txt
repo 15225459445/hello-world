@@ -1,0 +1,2 @@
+把helloword仓库下载到电脑中，
+在电脑上新建了一个local。txt的文件
